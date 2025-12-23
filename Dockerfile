@@ -1,3 +1,2 @@
-FROM n8nio/n8n:1.112.3
-
+FROM n8nio/n8n:2.0.3
 ENV GENERIC_TIMEZONE="Asia/Ho_Chi_Minh"
